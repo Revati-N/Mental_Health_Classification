@@ -7,11 +7,15 @@ This project aims to explore and analyze mental health and depression-related da
 This project involves two primary datasets:
 
 1. **Kaggle Dataset**
-   This publicly available dataset contains self-reported mental health survey data.
+   This dataset comprises mental health data from 1977 Bangladeshi university students across 15 top universities, collected from November to December 2023 using Google Forms. It includes assessments of academic anxiety, stress, and depression using widely used psychometric scales. The structured questionnaire covers sociodemographic variables and their associations, facilitating comprehensive analysis. 
    🔗 [Kaggle](https://www.kaggle.com/datasets/mohsenzergani/bangladeshi-university-students-mental-health)
 
-2. **Restricted Access Dataset**
-   This dataset contains detailed psychological assessments and is under copyright protection. Access is granted through an application and review process.
+2. **DAIC-WOZ** (Undecided)
+   This database contains clinical interviews designed to support the diagnosis of psychological distress conditions such as anxiety, depression, and post-traumatic stress disorder. 
+   
+   These interviews were collected as part of a larger effort to create a computer agent that interviews people and identifies verbal and nonverbal indicators of mental illness (DeVault et al., 2014).  
+   
+   Data collected include audio and video recordings and extensive questionnaire responses; this part of the corpus includes data from the Wizard-of-Oz interviews, conducted by an animated virtual interviewer called Ellie, controlled by a human interviewer in another room.
    🔗 [Request Access Here](https://dcapswoz.ict.usc.edu/daic-woz-database-download/) 
 
    > **Note**: At the time of writing, access to this dataset is pending. Further work will be extended once permission is granted.
