@@ -10,16 +10,6 @@ This project involves the following dataset:
    This dataset comprises mental health data from 1977 Bangladeshi university students across 15 top universities, collected from November to December 2023 using Google Forms. It includes assessments of academic anxiety, stress, and depression using widely used psychometric scales. The structured questionnaire covers sociodemographic variables and their associations, facilitating comprehensive analysis. 
    🔗 [Kaggle](https://www.kaggle.com/datasets/mohsenzergani/bangladeshi-university-students-mental-health)
 
-## 🚧 Current Status
-
-* ✅ Initial data exploration and cleaning on the Kaggle dataset
-* ⏳ Awaiting approval for access to the restricted dataset
-* 📊 Planning comparative analysis once both datasets are available
-
-## 📌 Notes
-
-* This project is strictly for educational and research purposes.
-* If you intend to use the restricted dataset, please apply through the official portal and adhere to their terms of use.
 
 ## 📬 Contact
 
